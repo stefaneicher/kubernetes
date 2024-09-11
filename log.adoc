@@ -1,0 +1,4 @@
+https://github.com/stefaneicher/kubernetes.git
+
+
+https://kubernetes.io/docs/tutorials/kubernetes-basics/
